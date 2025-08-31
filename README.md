@@ -25,6 +25,33 @@ The project highlights both Business Analysis (BA/PM skills) and Technical Devel
 
 🧠 Future Roadmap: AI chatbot + Customizable Dashboards
 
+
+
+## 🔍 Analysis Approach
+
+
+This project focuses on analyzing pre-launch requirements for SkillUpConnect.  
+
+
+The following approach was used:
+
+
+1. Gathered requirements from a student–mentor perspective.
+
+ 
+2. Documented functional & non-functional requirements (SRS & BRD).
+
+  
+3. Modeled key business processes using BPMN.
+
+  
+4. Conducted a cohort analysis to understand user retention.
+
+   
+5. Prepared a case study highlighting business insights and recommendations.
+
+   
+
 ##  📊 Business Analyst / PM Deliverables
 
 📄 Software Requirement Specification (SRS)
@@ -61,16 +88,7 @@ SkillUpConnect/
 │── README.md      # This file
 
 
-##  🚀 How to Run Locally
-Frontend (React)
-cd frontend
-npm install
-npm start
 
-Backend (Python)
-cd backend
-pip install -r requirements.txt
-python app.py
 
 ##  🌱 Future Enhancements
 
