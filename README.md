@@ -37,28 +37,27 @@ The project highlights both Business Analysis (BA/PM skills) and Technical Devel
 
 🎯 Case Study: Pre-launch Cohort Analysis for User Retention
 
-##  💻 Technical Implementation
-
-Frontend: React + Tailwind + ShadCN/UI (UI components, modals, forms, dashboards)
-
-
-Backend (Prototype): Python APIs for automation (e.g., auto BPMN generation, data handling)
-
-
-Data: JIRA-importable CSVs, simulated pre-launch datasets for retention tracking
-
-
-Automation: BPMN generation using Graphviz + Python
-
 
 ##  📂 Repo Structure:
 
 SkillUpConnect/
+
+
 │── frontend/      # React code
+
+
 │── backend/       # Python scripts / APIs
+
+
 │── docs/          # SRS, BRD, Cohort Analysis, Case Study
+
+
 │── bpmn/          # Auto-generated process models
+
+
 │── data/          # CSVs (sample + Jira import)
+
+
 │── README.md      # This file
 
 
