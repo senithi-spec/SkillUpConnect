@@ -41,11 +41,15 @@ The project highlights both Business Analysis (BA/PM skills) and Technical Devel
 
 Frontend: React + Tailwind + ShadCN/UI (UI components, modals, forms, dashboards)
 
+
 Backend (Prototype): Python APIs for automation (e.g., auto BPMN generation, data handling)
+
 
 Data: JIRA-importable CSVs, simulated pre-launch datasets for retention tracking
 
+
 Automation: BPMN generation using Graphviz + Python
+
 
 ##  📂 Repo Structure:
 
