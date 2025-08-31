@@ -72,12 +72,15 @@ python app.py
 ##  🌱 Future Enhancements
 
 AI-driven chatbot assistant for instant learning help
+
 Personalized dashboards for both mentors & learners
+
 Smart recommendation engine (matching mentors ↔ students)
 
 ###  👩‍💻 Author
 
 Senithi Mathangaweera
+
 Aspiring Business Analyst / Product Manager
 
 📌 Connect on LinkedIn: www.linkedin.com/in/senithi-mathangaweera-21aa6526b  | 📧 Email: msenithi004@gmail.com
