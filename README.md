@@ -88,6 +88,25 @@ SkillUpConnect/
 │── README.md      # This file
 
 
+## 🚀 How to Run Locally
+Frontend (React)
+
+
+cd frontend
+
+npm install
+
+npm start
+
+Backend (Python)
+
+
+cd backend
+
+pip install -r requirements.txt
+
+python app.py
+
 
 
 ##  🌱 Future Enhancements
