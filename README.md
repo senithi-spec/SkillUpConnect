@@ -2,12 +2,12 @@
 
 A Personalized Peer-to-Peer Learning & Mentorship Platform
 
-# 🎯 Project Overview
+##  🎯 Project Overview
 
 SkillUpConnect is a pre-launch platform designed to connect mentors and learners for skill development.
 The project highlights both Business Analysis (BA/PM skills) and Technical Development — combining product requirements, process modeling, cohort analysis, and working prototypes.
 
-# 🛠️ Key Features
+##  🛠️ Key Features
 
 👨‍🏫 Mentor Registration & Application (with verification & onboarding form)
 
@@ -25,7 +25,7 @@ The project highlights both Business Analysis (BA/PM skills) and Technical Devel
 
 🧠 Future Roadmap: AI chatbot + Customizable Dashboards
 
-# 📊 Business Analyst / PM Deliverables
+##  📊 Business Analyst / PM Deliverables
 
 📄 Software Requirement Specification (SRS)
 
@@ -37,7 +37,7 @@ The project highlights both Business Analysis (BA/PM skills) and Technical Devel
 
 🎯 Case Study: Pre-launch Cohort Analysis for User Retention
 
-# 💻 Technical Implementation
+##  💻 Technical Implementation
 
 Frontend: React + Tailwind + ShadCN/UI (UI components, modals, forms, dashboards)
 
@@ -47,7 +47,7 @@ Data: JIRA-importable CSVs, simulated pre-launch datasets for retention tracking
 
 Automation: BPMN generation using Graphviz + Python
 
-# 📂 Repo Structure:
+##  📂 Repo Structure:
 
 SkillUpConnect/
 │── frontend/      # React code
@@ -58,7 +58,7 @@ SkillUpConnect/
 │── README.md      # This file
 
 
-# 🚀 How to Run Locally
+##  🚀 How to Run Locally
 Frontend (React)
 cd frontend
 npm install
@@ -69,13 +69,13 @@ cd backend
 pip install -r requirements.txt
 python app.py
 
-# 🌱 Future Enhancements
+##  🌱 Future Enhancements
 
 AI-driven chatbot assistant for instant learning help
 Personalized dashboards for both mentors & learners
 Smart recommendation engine (matching mentors ↔ students)
 
-# 👩‍💻 Author
+###  👩‍💻 Author
 
 Senithi Mathangaweera
 Aspiring Business Analyst / Product Manager
